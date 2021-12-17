@@ -1,0 +1,498 @@
+[
+	{
+		"id": 1,
+		"correct-answer": 2,
+		"question": "Where is Scott Base?",
+		"answer1": "Stewart Island",
+		"answer2": "Antarctica",
+		"answer3": "South Island",
+		"answer4": "New York in the USA"
+	},
+	{
+		"id": 2,
+		"correct-answer": 2,
+		"question": "How did the first Polynesian settlers travel to NZ?",
+		"answer1": "By plane",
+		"answer2": "By boat",
+		"answer3": "By jetski",
+		"answer4": "By horse"
+	},
+	{
+		"id": 3,
+		"correct-answer": 2,
+		"question": "Which insect provides some light in caves such as the Waitomo Caves?",
+		"answer1": "Candle-worms",
+		"answer2": "Glow-worms",
+		"answer3": "Silkworm",
+		"answer4": "Slow worm"
+	},
+	{
+		"id": 4,
+		"correct-answer": 4,
+		"question": "What colour is Kakariki?",
+		"answer1": "Blue",
+		"answer2": "Yellow",
+		"answer3": "Black",
+		"answer4": "Green"
+	},
+	{
+		"id": 5,
+		"correct-answer": 3,
+		"question": "What is the public holiday held to remember the soldiers from Australia and NZ who fought at Gallipoli, Turkey?",
+		"answer1": "Waitangi Day",
+		"answer2": "Remembrance Day",
+		"answer3": "Anzac Day",
+		"answer4": "Matariki"
+	},
+	{
+		"id": 6,
+		"correct-answer": 2,
+		"question": "What is the name of the beach on the Coromandel Peninsula where you can dig and find hot water?",
+		"answer1": "90 Mile Beach",
+		"answer2": "Hot Water Beach",
+		"answer3": "Piha Beach",
+		"answer4": "Mission Bay"
+	},
+	{
+		"id": 7,
+		"correct-answer": 3,
+		"question": "What nocturnal pouched animal has a devastating effect on NZ’s forests?",
+		"answer1": "Kangaroo",
+		"answer2": "Cats",
+		"answer3": "Possums",
+		"answer4": "Hedgehogs"
+	},
+	{
+		"id": 8,
+		"correct-answer": 2,
+		"question": "Edmund Hillary and Sherpa Tenzing Norgay were the first men to climb which mountain?",
+		"answer1": "Mount Ranginui",
+		"answer2": "Mount Everest",
+		"answer3": "Mount Ruapehu",
+		"answer4": "Mount Taranaki"
+	},
+	{
+		"id": 9,
+		"correct-answer": 4,
+		"question": "Which one of these animals is native to NZ?",
+		"answer1": "Deer",
+		"answer2": "Goat",
+		"answer3": "Pig",
+		"answer4": "Long-tailed bat",
+		"answer5": "Horse"
+	},
+	{
+		"id": 10,
+		"correct-answer": 3,
+		"question": "What is geothermal power?",
+		"answer1": "Electric power that makes the earth warmer",
+		"answer2": "Electric power that makes the earth cooler",
+		"answer3": "Electric power generated from geothermal sources",
+		"answer4": "Electric power generated from metal"
+	},
+	{
+		"id": 11,
+		"correct-answer": 1,
+		"question": "The first ever ANZAC Day marches were held in London and Australia in which year?",
+		"answer1": 1916,
+		"answer2": 1926,
+		"answer3": 1936,
+		"answer4": 1946
+	},
+	{
+		"id": 12,
+		"correct-answer": 1,
+		"question": "Auckland is situated in which gulf?",
+		"answer1": "Hauraki Gulf",
+		"answer2": "Gulf of Aden",
+		"answer3": "Persian Gulf",
+		"answer4": "Gulf of Riga"
+	},
+	{
+		"id": 13,
+		"correct-answer": 3,
+		"question": "Which NZ bird has a tail like a fan?",
+		"answer1": "Fanbird",
+		"answer2": "Kiwi",
+		"answer3": "Fantail",
+		"answer4": "Kakapo"
+	},
+	{
+		"id": 14,
+		"correct-answer": 3,
+		"question": "Scurvy was a disease that mainly affected which people?",
+		"answer1": "Hunters",
+		"answer2": "Fishermen",
+		"answer3": "Sailors",
+		"answer4": "Businessmen"
+	},
+	{
+		"id": 15,
+		"correct-answer": 3,
+		"question": "Julie Anne Genter, Simon Bridges, Louisa Wall, Andrew Little, Paula Bennet and Winston Peters are all what?",
+		"answer1": "Authors",
+		"answer2": "Businesspeople",
+		"answer3": "Politicians",
+		"answer4": "Comedians"
+	},
+	{
+		"id": 16,
+		"correct-answer": 4,
+		"question": "In which of these countries have NZ soldiers never fought a war?",
+		"answer1": "South Africa",
+		"answer2": "Korea",
+		"answer3": "Vietnam",
+		"answer4": "Brazil"
+	},
+	{
+		"id": 17,
+		"correct-answer": 2,
+		"question": "Which town is the entry to the South Island, where the Cook Strait ferry passengers disembark?",
+		"answer1": "Queenstown",
+		"answer2": "Picton",
+		"answer3": "Invercargill",
+		"answer4": "New Plymouth"
+	},
+	{
+		"id": 18,
+		"correct-answer": 4,
+		"question": "What is the speed limit on the open road?",
+		"answer1": "50km/h",
+		"answer2": "60km/h",
+		"answer3": "120km/h",
+		"answer4": "100km/h"
+	},
+	{
+		"id": 19,
+		"correct-answer": 2,
+		"question": "Who were the leaders of Maori tribes?",
+		"answer1": "Captains",
+		"answer2": "Chiefs",
+		"answer3": "Heads",
+		"answer4": "Pilots"
+	},
+	{
+		"id": 20,
+		"correct-answer": 2,
+		"question": "Which large flightless birds were hunted to extinction in NZ?",
+		"answer1": "Kiwi",
+		"answer2": "Moa",
+		"answer3": "Kakapo",
+		"answer4": "Tuatara"
+	},
+	{
+		"id": 21,
+		"correct-answer": 4,
+		"question": "NZ has about 2,700 native plant species. Since the arrival of Europeans, how many new plant species have been introduced?",
+		"answer1": 20,
+		"answer2": 200,
+		"answer3": 2000,
+		"answer4": 20000
+	},
+	{
+		"id": 22,
+		"correct-answer": 1,
+		"question": "Which city is the home of Otago University?",
+		"answer1": "Dunedin",
+		"answer2": "Auckland",
+		"answer3": "Wellington",
+		"answer4": "Christchurch"
+	},
+	{
+		"id": 23,
+		"correct-answer": 3,
+		"question": "What is the name of the strait between the North and South Islands?",
+		"answer1": "Stewart Strait",
+		"answer2": "Foveaux Strait",
+		"answer3": "Cook Strait",
+		"answer4": "Tamaki Strait"
+	},
+	{
+		"id": 24,
+		"correct-answer": 4,
+		"question": "Where was the first area of European settlement in NZ?",
+		"answer1": "Auckland",
+		"answer2": "Wellington",
+		"answer3": "Invercargill",
+		"answer4": "Bay of Islands"
+	},
+	{
+		"id": 25,
+		"correct-answer": 3,
+		"question": "Who climbed to the top of Mt Everest with Sir Edmund Hillary?",
+		"answer1": "Fred Dogg",
+		"answer2": "Billy T James",
+		"answer3": "Tenzing Norgay",
+		"answer4": "Sean Fitzpatrick"
+	},
+	{
+		"id": 26,
+		"correct-answer": 4,
+		"question": "What is the name of the NZ national soccer team?",
+		"answer1": "The All Blacks",
+		"answer2": "The Wellington Stars",
+		"answer3": "The Black Caps",
+		"answer4": "The All Whites"
+	},
+	{
+		"id": 27,
+		"correct-answer": 3,
+		"question": "Which country has the most penguin species in the world?",
+		"answer1": "Antarctica",
+		"answer2": "Australia",
+		"answer3": "New Zealand",
+		"answer4": "South Africa"
+	},
+	{
+		"id": 28,
+		"correct-answer": 3,
+		"question": "What is known as the 'Adventure Capital' of NZ?",
+		"answer1": "Auckland",
+		"answer2": "Christchurch",
+		"answer3": "Queenstown",
+		"answer4": "Wellington"
+	},
+	{
+		"id": 29,
+		"correct-answer": 2,
+		"question": "Minke, Brydes, Blue, and Humpback are all species of what?",
+		"answer1": "Giraffes",
+		"answer2": "Whales",
+		"answer3": "Sharks",
+		"answer4": "Hippos"
+	},
+	{
+		"id": 30,
+		"correct-answer": 4,
+		"question": "Which famous NZer possibly flew the first airplane?",
+		"answer1": "Sir Edmund Hillary",
+		"answer2": "Steve Jobs",
+		"answer3": "John Key",
+		"answer4": "Richard Pearse"
+	},
+	{
+		"id": 31,
+		"correct-answer": 3,
+		"question": "Which sport do the All Whites play?",
+		"answer1": "Netball",
+		"answer2": "Rugby",
+		"answer3": "Soccer",
+		"answer4": "Badminton"
+	},
+	{
+		"id": 32,
+		"correct-answer": 2,
+		"question": "What type of animal is the kiore, which was brought to NZ by early Polynesian settlers?",
+		"answer1": "A cat",
+		"answer2": "A rat",
+		"answer3": "A bat",
+		"answer4": "A bird"
+	},
+	{
+		"id": 33,
+		"correct-answer": 3,
+		"question": "Which sport do the All Whites play?",
+		"answer1": "Netball",
+		"answer2": "Rugby",
+		"answer3": "Soccer",
+		"answer4": "Badminton"
+	},
+	{
+		"id": 34,
+		"correct-answer": 2,
+		"question": "What is the name for a hot spring that erupts periodically, pushing a column of hot water and steam into the air?",
+		"answer1": "A pier",
+		"answer2": "A geyser",
+		"answer3": "A volcano",
+		"answer4": "A boink"
+	},
+	{
+		"id": 35,
+		"correct-answer": 2,
+		"question": "What is the biggest spectator sport in NZ?",
+		"answer1": "Netball",
+		"answer2": "Rugby",
+		"answer3": "Soccer",
+		"answer4": "Cricket"
+	},
+	{
+		"id": 36,
+		"correct-answer": 3,
+		"question": "New Zealander Ernest Rutherford is famous for splitting what?",
+		"answer1": "Hairs",
+		"answer2": "Siamese twins",
+		"answer3": "The atom",
+		"answer4": "DNA"
+	},
+	{
+		"id": 37,
+		"correct-answer": 1,
+		"question": "Richard Pearse is most famous for his early experiments with what?",
+		"answer1": "Flying",
+		"answer2": "Swimming",
+		"answer3": "Art",
+		"answer4": "Diving"
+	},
+	{
+		"id": 38,
+		"correct-answer": 1,
+		"question": "Which city in the South Island has the most people living in it?",
+		"answer1": "Christchurch",
+		"answer2": "Picton",
+		"answer3": "Queenstown",
+		"answer4": "Blenheim"
+	},
+	{
+		"id": 39,
+		"correct-answer": 1,
+		"question": "Nuclear power generates what percentage of NZ's electricity?",
+		"answer1": "None",
+		"answer2": "10%",
+		"answer3": "20%",
+		"answer4": "50%"
+	},
+	{
+		"id": 40,
+		"correct-answer": 2,
+		"question": "Which one of these is not a native tree?",
+		"answer1": "Kauri",
+		"answer2": "Pine",
+		"answer3": "Totara",
+		"answer4": "Rimu"
+	},
+	{
+		"id": 41,
+		"correct-answer": 3,
+		"question": "Who are Pakeha?",
+		"answer1": "Asians",
+		"answer2": "Australians",
+		"answer3": "Non-maori people",
+		"answer4": "New Zealanders"
+	},
+	{
+		"id": 42,
+		"correct-answer": 1,
+		"question": "What is the common nickname for New Zealanders?",
+		"answer1": "Kiwis",
+		"answer2": "Rugbys",
+		"answer3": "Islanders",
+		"answer4": "Kakapeople"
+	},
+	{
+		"id": 43,
+		"correct-answer": 3,
+		"question": "What is Te Reo Maori?",
+		"answer1": "A theme park",
+		"answer2": "A waterfall",
+		"answer3": "A language",
+		"answer4": "A type of bird"
+	},
+	{
+		"id": 44,
+		"correct-answer": 2,
+		"question": "NZ has had several epidemics. What is an epidemic?",
+		"answer1": "A rise in money",
+		"answer2": "A disease that spreads quickly",
+		"answer3": "A lockdown",
+		"answer4": "A change in government"
+	},
+	{
+		"id": 45,
+		"correct-answer": 3,
+		"question": "In NZ slang, what does it mean to be 'a bit of a dag'?",
+		"answer1": "A famous person",
+		"answer2": "A mischievous person",
+		"answer3": "A comedian",
+		"answer4": "A sports player"
+	},
+	{
+		"id": 46,
+		"correct-answer": 3,
+		"question": "Which sport do the All Whites play?",
+		"answer1": "Netball",
+		"answer2": "Rugby",
+		"answer3": "Soccer",
+		"answer4": "Badminton"
+	},
+	{
+		"id": 47,
+		"correct-answer": 4,
+		"question": "What colour is mawhero?",
+		"answer1": "White",
+		"answer2": "Red",
+		"answer3": "Black",
+		"answer4": "Pink"
+	},
+	{
+		"id": 48,
+		"correct-answer": 1,
+		"question": "What is the social and spiritual centre where Maori meet and celebrate?",
+		"answer1": "A marae",
+		"answer2": "A whare",
+		"answer3": "A school",
+		"answer4": "A court"
+	},
+	{
+		"id": 49,
+		"correct-answer": 2,
+		"question": "Why has no living human ever seen a living moa?",
+		"answer1": "Because they are invisible to us",
+		"answer2": "Because they are extinct",
+		"answer3": "Because they are in outer space",
+		"answer4": "Because they run away from us"
+	},
+	{
+		"id": 50,
+		"correct-answer": 1,
+		"question": "What type of animal is a kaka?",
+		"answer1": "A bird",
+		"answer2": "A fish",
+		"answer3": "A lion",
+		"answer4": "A cat"
+	},
+	{
+		"id": 51,
+		"correct-answer": 2,
+		"question": "What are kowhai, karaka, totara, kauri, and rimu?",
+		"answer1": "Colours",
+		"answer2": "Native trees",
+		"answer3": "Birds",
+		"answer4": "Toys"
+	},
+	{
+		"id": 52,
+		"correct-answer": 3,
+		"question": "What was the tallest bird that ever lived?",
+		"answer1": "Kiwi",
+		"answer2": "Kakapo",
+		"answer3": "Moa",
+		"answer4": "Eagle"
+	},
+	{
+		"id": 53,
+		"correct-answer": 2,
+		"question": "'God of Nations' is NZ's national what?",
+		"answer1": "Art",
+		"answer2": "Anthem",
+		"answer3": "Dance",
+		"answer4": "House"
+	},
+	{
+		"id": 54,
+		"correct-answer": 2,
+		"question": "Who represented the British Crown in signing the Treaty of Waitangi?",
+		"answer1": "John Key",
+		"answer2": "William Hobson",
+		"answer3": "James Cook",
+		"answer4": "Abel Tasman"
+	},
+	{
+		"id": 55,
+		"correct-answer": 3,
+		"question": "Which is NZ's highest mountain? It was originally named after a discoverer of NZ.",
+		"answer1": "Mount Ranginui",
+		"answer2": "Mount Ruapehu",
+		"answer3": "Mount Cook",
+		"answer4": "Mount Taranaki"
+	}
+]

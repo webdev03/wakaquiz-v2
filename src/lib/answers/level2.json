@@ -1,0 +1,371 @@
+[
+	{
+		"id": 1,
+		"correct-answer": 3,
+		"question": "Who is the legendary heroine who swam across Lake Rotorua to meet Tutanekai?",
+		"answer1": "Maui",
+		"answer2": "Mauo",
+		"answer3": "Hinemoa",
+		"answer4": "Taupo"
+	},
+	{
+		"id": 2,
+		"correct-answer": 1,
+		"question": "What is the name for the traditional method of trade training in NZ?",
+		"answer1": "Apprenticeships",
+		"answer2": "Friendships",
+		"answer3": "Trade-learning",
+		"answer4": "Traderships"
+	},
+	{
+		"id": 3,
+		"correct-answer": 1,
+		"question": "What is a poi?",
+		"answer1": "A light ball on a string",
+		"answer2": "A dance",
+		"answer3": "A song",
+		"answer4": "A carved piece of stone"
+	},
+	{
+		"id": 4,
+		"correct-answer": 2,
+		"question": "How many Maori chiefs signed the Treaty of Waitangi at Waitangi?",
+		"answer1": "23",
+		"answer2": "43",
+		"answer3": "63",
+		"answer4": "83"
+	},
+	{
+		"id": 5,
+		"correct-answer": 1,
+		"question": "Where is the largest stretch of flat land in NZ?",
+		"answer1": "Canterbury Plains",
+		"answer2": "Rotorua",
+		"answer3": "Taupo",
+		"answer4": "Nelson"
+	},
+	{
+		"id": 6,
+		"correct-answer": 1,
+		"question": "What is the name of the largest peninsula north of Thames?",
+		"answer1": "Coromandel Peninsula",
+		"answer2": "Auckland Peninsula",
+		"answer3": "Thames Peninsula",
+		"answer4": "Christchurch Peninsula"
+	},
+	{
+		"id": 7,
+		"correct-answer": 4,
+		"question": "Which common household pet can become a wild pest which kills native birds?",
+		"answer1": "Dogs",
+		"answer2": "Fish",
+		"answer3": "Guinea pigs",
+		"answer4": "Cats"
+	},
+	{
+		"id": 8,
+		"correct-answer": 3,
+		"question": "Jerusalem is situated near which NZ river?",
+		"answer1": "Waipa",
+		"answer2": "Waikato",
+		"answer3": "Whanganui",
+		"answer4": "Wairoa"
+	},
+	{
+		"id": 9,
+		"correct-answer": 3,
+		"question": "What electrical devices to incapacitate people have been used by the NZ Police since 2006?",
+		"answer1": "Guns",
+		"answer2": "Fishing rods",
+		"answer3": "Tasers",
+		"answer4": "Shockwavers"
+	},
+	{
+		"id": 10,
+		"correct-answer": 4,
+		"question": "What does e noho mean?",
+		"answer1": "Nod",
+		"answer2": "Sit down",
+		"answer3": "Lie down",
+		"answer4": "Peace"
+	},
+	{
+		"id": 11,
+		"correct-answer": 1,
+		"question": "Who wrote 'Slice of Heaven', which became the tourist industry anthem?",
+		"answer1": "Dave Dobbyn",
+		"answer2": "Tim Finn",
+		"answer3": "John Lennon",
+		"answer4": "Russel Crowe"
+	},
+	{
+		"id": 12,
+		"correct-answer": 2,
+		"question": "What attracted Chinese immigrants to NZ from the 1860s?",
+		"answer1": "Living costs",
+		"answer2": "Goldmining",
+		"answer3": "Family",
+		"answer4": "Enjoyment"
+	},
+	{
+		"id": 13,
+		"correct-answer": 1,
+		"question": "Which NZ city is one of the few cities in the world to have harbours on two separate bodies of water?",
+		"answer1": "Auckland",
+		"answer2": "Christchurch",
+		"answer3": "Wellington",
+		"answer4": "Hamilton"
+	},
+	{
+		"id": 14,
+		"correct-answer": 2,
+		"question": "What is the only known wingless bird?",
+		"answer1": "The kiwi",
+		"answer2": "The moa",
+		"answer3": "The kakapo",
+		"answer4": "The eagle"
+	},
+	{
+		"id": 15,
+		"correct-answer": 1,
+		"question": "What was the period in the 1930s called, when there was high unemployment and poverty?",
+		"answer1": "Depression",
+		"answer2": "Low",
+		"answer3": "Cry",
+		"answer4": "Negative"
+	},
+	{
+		"id": 16,
+		"correct-answer": 1,
+		"question": "Which of these lives the longest?",
+		"answer1": "Orange Roughy",
+		"answer2": "Tuatara",
+		"answer3": "Royal Albatross",
+		"answer4": "Eagle"
+	},
+	{
+		"id": 17,
+		"correct-answer": 2,
+		"question": "Which famous natural wonder was destroyed by a volcanic eruption in 1886?",
+		"answer1": "The Sky Tower in Auckland",
+		"answer2": "The Pink and White Terraces in Rotorua",
+		"answer3": "Lake Taupo",
+		"answer4": "Geronimo Place"
+	},
+	{
+		"id": 18,
+		"correct-answer": 3,
+		"question": "Chew Chong brought wealth to Taranaki through exporting what to England?",
+		"answer1": "Sheep",
+		"answer2": "Timber",
+		"answer3": "Butter",
+		"answer4": "Coal"
+	},
+	{
+		"id": 19,
+		"correct-answer": 4,
+		"question": "How many species of ants are native to NZ?",
+		"answer1": "None",
+		"answer2": "One",
+		"answer3": "Five",
+		"answer4": "Ten"
+	},
+	{
+		"id": 20,
+		"correct-answer": 2,
+		"question": "What simple child's toy has become a symbol of kiwiana?",
+		"answer1": "Thomas the Tank Engine",
+		"answer2": "The Buzzy Bee",
+		"answer3": "The Hot Wheels Car",
+		"answer4": "Jellycar"
+	},
+	{
+		"id": 21,
+		"correct-answer": 1,
+		"question": "What are Moko?",
+		"answer1": "Traditional Maori tattoos",
+		"answer2": "Traditional Maori art",
+		"answer3": "Traditional Maori greetings",
+		"answer4": "Traditional Maori food"
+	},
+	{
+		"id": 22,
+		"correct-answer": 2,
+		"question": "Which large town, other than Napier, was extensively destroyed by the 1931 Hawkes Bay earthquake?",
+		"answer1": "Auckland",
+		"answer2": "Hastings",
+		"answer3": "Ormiston",
+		"answer4": "Invercargill"
+	},
+	{
+		"id": 23,
+		"correct-answer": 1,
+		"question": "What is the southernmost <b>town</b> in the South Island?",
+		"answer1": "Bluff",
+		"answer2": "Hastings",
+		"answer3": "Christchurch",
+		"answer4": "Auckland"
+	},
+	{
+		"id": 24,
+		"correct-answer": 3,
+		"question": "How many million years ago did dinosaurs become extinct <b>in NZ</b>?",
+		"answer1": "5",
+		"answer2": "35",
+		"answer3": "65",
+		"answer4": "100"
+	},
+	{
+		"id": 25,
+		"correct-answer": 2,
+		"question": "In 1918 many people died in NZ - from what illness?",
+		"answer1": "Bubonic plague",
+		"answer2": "Flu",
+		"answer3": "Mumps",
+		"answer4": "Meningitis"
+	},
+	{
+		"id": 26,
+		"correct-answer": 1,
+		"question": "What is Stan Walker best known for?",
+		"answer1": "Singing",
+		"answer2": "Dancing",
+		"answer3": "Vlogging",
+		"answer4": "Inventing"
+	},
+	{
+		"id": 27,
+		"correct-answer": 1,
+		"question": "The tui, stitchbird and bellbird eat mainly what?",
+		"answer1": "Nectar",
+		"answer2": "Breadcrumbs",
+		"answer3": "Chips",
+		"answer4": "Other birds"
+	},
+	{
+		"id": 28,
+		"correct-answer": 1,
+		"question": "Which West Coast natural resource did Thomas Brunner discover?",
+		"answer1": "Coal",
+		"answer2": "Moa bones",
+		"answer3": "Kiwis",
+		"answer4": "Gold"
+	},
+	{
+		"id": 29,
+		"correct-answer": 3,
+		"question": "In what year did Jean Batten fly solo from England to NZ?",
+		"answer1": "1806",
+		"answer2": "1916",
+		"answer3": "1936",
+		"answer4": "1966"
+	},
+	{
+		"id": 30,
+		"correct-answer": 3,
+		"question": "Which language became an official language of NZ in 1987?",
+		"answer1": "English",
+		"answer2": "NZ Sign Language",
+		"answer3": "Maori",
+		"answer4": "Samoan"
+	},
+	{
+		"id": 31,
+		"correct-answer": 4,
+		"question": "What is the name for a Maori priest?",
+		"answer1": "Iwi",
+		"answer2": "Ratana",
+		"answer3": "Tangata",
+		"answer4": "Tohunga"
+	},
+	{
+		"id": 32,
+		"correct-answer": 1,
+		"question": "Which town was once called Kororareka and in 1840 was the largest settlement in New Zealand?",
+		"answer1": "Russell",
+		"answer2": "Auckland",
+		"answer3": "Hamilton",
+		"answer4": "Christchurch"
+	},
+	{
+		"id": 33,
+		"correct-answer": 3,
+		"question": "What historic shipment first took place in 1882, marking the start of important exports from NZ?",
+		"answer1": "The first shipment of milk",
+		"answer2": "The first shipment of animals",
+		"answer3": "The first shipment of frozen meat",
+		"answer4": "The first shipment of oil"
+	},
+	{
+		"id": 34,
+		"correct-answer": 3,
+		"question": "How many years is it since a volcano has erupted in Auckland?",
+		"answer1": "10",
+		"answer2": "100",
+		"answer3": "600",
+		"answer4": "1600"
+	},
+	{
+		"id": 35,
+		"correct-answer": 3,
+		"question": "Interisland ferries operate between which city and town in the North and South Islands?",
+		"answer1": "Auckland and Invercargill",
+		"answer2": "Auckland and Picton",
+		"answer3": "Wellington and Picton",
+		"answer4": "Hamilton and Christchurch"
+	},
+	{
+		"id": 36,
+		"correct-answer": 4,
+		"question": "Which place is known as the 'Sunshine Capital' of New Zealand? It usually averages more sunshine hours than anywhere else.",
+		"answer1": "Auckland",
+		"answer2": "Christchurch",
+		"answer3": "Hamilton",
+		"answer4": "Blenheim"
+	},
+	{
+		"id": 37,
+		"correct-answer": 1,
+		"question": "In New Zealand slang, what is a 'prang'?",
+		"answer1": "A minor vehicle accident",
+		"answer2": "A mistake",
+		"answer3": "A pool",
+		"answer4": "A cable"
+	},
+	{
+		"id": 38,
+		"correct-answer": 4,
+		"question": "Who was the leader of the National Party in the 2017 election?",
+		"answer1": "Simon Bridges",
+		"answer2": "Judith Collins",
+		"answer3": "Jacinda Ardern",
+		"answer4": "Bill English"
+	},
+	{
+		"id": 39,
+		"correct-answer": 4,
+		"question": "Which is the driest main city in NZ?",
+		"answer1": "Invercargill",
+		"answer2": "Wellington",
+		"answer3": "Hamilton",
+		"answer4": "Christchurch"
+	},
+	{
+		"id": 40,
+		"correct-answer": 2,
+		"question": "Geothermal power generates what percentage of NZ's electricity?",
+		"answer1": "None",
+		"answer2": "20%",
+		"answer3": "25%",
+		"answer4": "55%"
+	},
+	{
+		"id": 41,
+		"correct-answer": 2,
+		"question": "In which year were the first Maori MPs elected to Parliament?",
+		"answer1": "1853",
+		"answer2": "1868",
+		"answer3": "1893",
+		"answer4": "1903"
+	}
+]

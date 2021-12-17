@@ -1,14 +1,16 @@
-<div class="container">
-  <br />
-  <h1 style="text-align: center;"> Waka Kiwi Quiz </h1>
-  <p style="text-align: center;">Hello, Waka Family! Test out your Kiwi Quiz knowledge using this fun web
-      application. Ready to go?</p> <br />
-  <h2 style="text-align: center;">Instructions</h2>
-  <p style="text-align: center;">The higher the level, the harder the questions.</p>
-  <br />
-  <h2>Quizzes</h2>
+<script>
+	// component imports
+	import Button from '$lib/components/Button.svelte';
+</script>
 
-  <a class="btn btn-primary btn-lg" href="quizzes/level1/choose.html" role="button">Level 1 </a> <br /> <br />
-  <a class="btn btn-primary btn-lg" href="quizzes/level2/choose.html">Level 2</a> <br /> <br />
-  <footer><br />Made by Devarsh and Jasper.<br /><br /></footer>
-</div>
+<p>
+	Hello, Waka Family! Test out your Kiwi Quiz knowledge using this fun web application. Ready to go?
+</p>
+<br />
+<span class="text-2xl">Instructions</span>
+<p>The higher the level, the harder the questions.</p>
+<br />
+<span class="text-2xl">Quizzes</span> <br /> <br />
+<Button goTo="/quiz/level-1">Level 1</Button>
+<br /> <br />
+<Button goTo="/quiz/level-2">Level 2</Button> <br /> <br />
