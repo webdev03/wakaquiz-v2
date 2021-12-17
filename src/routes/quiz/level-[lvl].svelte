@@ -12,11 +12,13 @@
 	import { onMount } from 'svelte';
 	export let level = '1';
 	let questionData;
+	let score = 0;
+	let questionsFinished = 0;
 	let status = '';
 	let loading = true;
 	let problem,
 		alreadyAnswered = false;
-	let answerQuestion1, answerQuestion2, answerQuestion3, answerQuestion4;
+	let nextQuestionHook, answerQuestion1, answerQuestion2, answerQuestion3, answerQuestion4;
 	level = Number(level).toString();
 	function generateRandomNumber(min, max) {
 		// thanks StackOverflow https://stackoverflow.com/a/7228322/
@@ -35,18 +37,29 @@
 			let questionNumber = generateRandomNumber(0, answers.length);
 			questionData = answers[questionNumber];
 			alreadyAnswered = false;
+			status = '';
 		};
 		generateQuestion();
+		nextQuestionHook = () => {
+			generateQuestion();
+			if (questionsFinished >= 10) {
+				alert('Your WakaQuiz is done with a score of ' + score + '/10!');
+				window.location.reload();
+			}
+		};
 		const answerBase = (num) => {
 			if (alreadyAnswered) {
 				status = "Your answer is now invalid, don't try to click it twice.";
+				return;
 			} else if (questionData['correct-answer'] == num) {
 				status = 'Congratulations! You have got the correct answer!';
+				score++;
 			} else {
 				status = `Sorry, your answer is incorrect. The correct answer was ${
 					questionData['answer' + questionData['correct-answer']]
 				}.`;
 			}
+			questionsFinished++;
 			alreadyAnswered = true;
 		};
 		// aliases
@@ -66,6 +79,7 @@
 		<span class="font-semibold">Oh no!</span> It seems like an error has occurred. Please try again later.
 	</div>
 {:else}
+	{score}/10 correct
 	<h3 class="text-lg">{questionData.question}</h3>
 	<button
 		on:click={answerQuestion1}
@@ -74,17 +88,17 @@
 	>
 	<button
 		on:click={answerQuestion2}
-		class="bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
+		class="mt-2 bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
 		>{questionData['answer2']}</button
 	>
 	<button
 		on:click={answerQuestion3}
-		class="bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
+		class="mt-2 bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
 		>{questionData['answer3']}</button
 	>
 	<button
 		on:click={answerQuestion4}
-		class="bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
+		class="mt-2 bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
 		>{questionData['answer4']}</button
 	>
 	<br />
@@ -92,8 +106,8 @@
 	{#if alreadyAnswered}
 		<br />
 		<button
-			on:click={answerQuestion4}
-			class="bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
+			on:click={nextQuestionHook}
+			class="mt-2 bg-blue-300 p-2 rounded shadow-md hover:bg-blue-400 hover:shadow-lg dark:text-gray-900"
 			>Next</button
 		>
 	{/if}
